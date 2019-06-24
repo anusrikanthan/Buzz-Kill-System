@@ -19,16 +19,23 @@ A novel driver alterness detection system.
 # Procedure for running EAR code:
 The libraries required for running the python code can be installed using the following commands in linux
 
+
 sudo apt-get install build-essential cmake
+
 sudo apt-get install libgtk-3-dev
+
 sudo apt-get install libboost-all-dev
 
 wget https://bootstrap.pypa.io/get-pip.py
+
 sudo python get-pip.py
 
 pip install numpy
+
 pip install scipy
+
 pip install scikit-image
+
 pip install dlib
 
 After installing all the necessary packages, download the contents of the folder from the link and enter the following command from that directory to run the python code.
