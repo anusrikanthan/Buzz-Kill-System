@@ -4,8 +4,8 @@ import time
 import win32gui
 from twilio.rest import Client
 
-account_sid = 'AC0d982082455eff6334adaba25a77d04f'          // Change twilio account details to your own 
-auth_token = '3b3e2361f7fdb0ac94e4ba9d9fe30d56'
+account_sid = 'xxxxxxxxxxxxxxxxxxxxxxxx'          // Change twilio account details to your own 
+auth_token = 'xxxxxxxxxxxxxxxxxxxxxxxxx'
 client = Client(account_sid, auth_token)
 
 print("1")
