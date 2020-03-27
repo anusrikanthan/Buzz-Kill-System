@@ -32,6 +32,12 @@ sudo python get-pip.py
 
 pip install numpy
 
+pip install imutils
+
+pip install pygame
+
+pip install playsound
+
 pip install scipy
 
 pip install scikit-image
